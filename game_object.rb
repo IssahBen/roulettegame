@@ -73,7 +73,7 @@ class Game
   system("clear") || system("cls")
   puts <<~WELCOME
   #{'-' * 60}
-  🎰  WELCOME TO...THE ROULETTE
+  🎰  WELCOME TO...COUGAR ROULETTE
  
 
 
